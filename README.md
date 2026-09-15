@@ -17,8 +17,8 @@ gerenciar o acervo da biblioteca.
 - Consulta de livros
 - Relatórios
 ## Equipe
-- Aluno 1
-- Aluno 2
-- Aluno 3
+- Ana Beatriz
+- Raica Pinheiro
+- Samuel Vinhal
 ## Versão
 1.0
